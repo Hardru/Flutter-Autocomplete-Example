@@ -24,7 +24,7 @@ Finalment, si volem que faci alguna acció quan es seleccioni una opció, podem 
 
 ## Exemple del widget
 
-Podem obtenir un exemple del widget aquí. Per fer-lo funcionar haurem d'instal·lar el projecte utilitzant el comandament `flutter pub get` i iniciar-lo amb `flutter run`.
+Podem obtenir un exemple del widget [aquí](https://github.com/Hardru/Flutter-Autocomplete-Example). Per fer-lo funcionar haurem d'instal·lar el projecte utilitzant el comandament `flutter pub get` i iniciar-lo amb `flutter run`.
 
 L'objectiu de l'exemple es trobar un usuari introduïnt el seu correu electrònic. Si introduïm primer la província, només es mostraran els correus electrònics amb els usuaris d'aquella província.
 
